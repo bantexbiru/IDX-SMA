@@ -1,2 +1,6 @@
 # IDX-SMA
 SMA IDX CLOSE
+
+
+
+https://mybinder.org/v2/gh/bantexbiru/IDX-SMA/f01294b1b76847aa919f916041d0af59bae0a56e?filepath=CLOSE_PRICE_PREDICTION_%5BSMA%5D_%5BLINEAR_REGRESSION%5D_VER_4.ipynb
